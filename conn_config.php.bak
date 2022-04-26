@@ -1,0 +1,12 @@
+<?php
+
+	//資料庫位址
+	define('_DB_LOCATON', 'localhost');
+	//資料庫帳號
+	define('_DB_ID', 'cdtlAdminUser');
+	//資料庫密碼
+	define('_DB_PASS', 'inAdmin#@22840218');
+	//資料庫名稱
+	define('_DB_NAME', '2019application');
+
+?>
