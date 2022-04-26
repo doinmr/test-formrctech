@@ -39,6 +39,9 @@ url：test_news_delete.php
 呼叫方式：GET   
 ![1650996491261](https://user-images.githubusercontent.com/104420343/165364458-85e0cb92-d6e8-43fa-acca-f630c0d2ed22.jpg)  
 ![1650996475685](https://user-images.githubusercontent.com/104420343/165364448-05feed4f-866d-4fe6-81d8-9d4b729dee54.jpg)  
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/104420343/165364448-05feed4f-866d-4fe6-81d8-9d4b729dee54.jpg" alt="Editor" width="200">
+</div>
   
 ## 4.文件說明  
 ├── conn.php         //資料庫連線  
