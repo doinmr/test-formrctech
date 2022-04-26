@@ -1,10 +1,10 @@
 # test-formrctech  
 奇迹科技股份有限公司 面試前測  
 
-1.建立資料庫  
+##1.建立資料庫  
 CREATE DATABASE 資料庫名稱;  
   
-2.建立資料表  
+##2.建立資料表  
 DROP TABLE IF EXISTS `news`;  
 CREATE TABLE IF NOT EXISTS `news` (  
   `news_id` int(5) NOT NULL AUTO_INCREMENT COMMENT '自動編碼',  
@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS `news` (
 
 ![1650992043971](https://user-images.githubusercontent.com/104420343/165363188-6aee1ee5-1115-4b11-a580-f67189a99fe0.jpg)  
 
-3.前端/畫面參考
+##3.前端/畫面參考
 公告一覽 
 ![1650996197589](https://user-images.githubusercontent.com/104420343/165364016-8ab983ad-017f-43a3-baf8-ba8ea90f33be.jpg)  
 新增公告 
@@ -30,4 +30,4 @@ CREATE TABLE IF NOT EXISTS `news` (
 ![1650996340190](https://user-images.githubusercontent.com/104420343/165364039-86ca5413-c0bf-43ea-803a-7d4146c5776b.jpg)    
 ![1650996475685](https://user-images.githubusercontent.com/104420343/165364448-05feed4f-866d-4fe6-81d8-9d4b729dee54.jpg)
 
-4.後端執行
+##4.後端執行
