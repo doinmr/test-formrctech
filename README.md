@@ -13,5 +13,5 @@ CREATE TABLE IF NOT EXISTS `news` (
   `news_date` datetime NOT NULL COMMENT '建立時間',  
   PRIMARY KEY (`news_id`)  
 ) ENGINE=MyISAM AUTO_INCREMENT=12 DEFAULT CHARSET=utf8 COMMENT='最新公告 ';  
- 
+
 ![1650992043971](https://user-images.githubusercontent.com/104420343/165363188-6aee1ee5-1115-4b11-a580-f67189a99fe0.jpg)
