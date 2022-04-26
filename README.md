@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS `news` (
 修改公告 
 ![1650996277488](https://user-images.githubusercontent.com/104420343/165364032-04c5f37e-ed51-4aab-a3d1-ea21095c9eb7.jpg)
 ![1650996333838](https://user-images.githubusercontent.com/104420343/165364035-815ce776-1ddb-4d76-88d7-c3309f30ff25.jpg)  
-刪除公告 
+刪除公告  
 ![1650996491261](https://user-images.githubusercontent.com/104420343/165364458-85e0cb92-d6e8-43fa-acca-f630c0d2ed22.jpg)  
 ![1650996340190](https://user-images.githubusercontent.com/104420343/165364039-86ca5413-c0bf-43ea-803a-7d4146c5776b.jpg)    
 ![1650996475685](https://user-images.githubusercontent.com/104420343/165364448-05feed4f-866d-4fe6-81d8-9d4b729dee54.jpg)
